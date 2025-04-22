@@ -10,11 +10,10 @@
 
 Most of my work is in private repositories (for now 👀), but here are a couple of repos I’ve recently created:
 
-[**Orkun Finans**](https://orkunfinans.netlify.app/)
-
+[**Orkun Finans**](https://orkunfinans.netlify.app/),
 [**MyKendoku**](https://mykendoku.netlify.app/)
 
-More coming soon, as I create to learn more in my free time.
+More coming soon, as I create to learn more in my free time 😊.
 
 <br>
 
