@@ -4,6 +4,7 @@
 🔍 Mainly interested in **Data Science**, as well as **Finance** and **Decision Support Systems**.  
 💻 Currently focused on mastering Python libraries for **Machine Learning** and **AI** applications.
 
+<br>
 
 🚀 **Recent Projects**
 Most of my work is in private repositories (for now 👀), but here are a couple of repos I’ve recently created:
@@ -14,6 +15,7 @@ Most of my work is in private repositories (for now 👀), but here are a couple
 
 More coming soon, as I create to learn more in my free time.
 
+<br>
 
 🛠️ **Technologies & Tools**
 
@@ -23,7 +25,7 @@ Can use: `SQL`, `C++`, `UML`
 
 Currently learning: `C`, `scikit-learn`, `TensorFlow`
 
-
+<br>
 
 📬 **Get in Touch**
 
