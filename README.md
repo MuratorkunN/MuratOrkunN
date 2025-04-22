@@ -8,6 +8,7 @@
 Most of my work is in private repositories (for now 👀), but here are a couple of repos I’ve recently created:
 
 [**Orkun Finans**](https://orkunfinans.netlify.app/)
+
 [**MyKendoku**](https://mykendoku.netlify.app/)
 
 More coming soon, as I create to learn more in my free time.
@@ -20,6 +21,7 @@ Currently learning: `C`, `scikit-learn`, `TensorFlow`
 
 📬 **Get in Touch**
 Email: **orkun.katkat@ozu.edu.tr**
+
 LinkedIn: [**Murat Orkun Katkat**](https://www.linkedin.com/in/murat-orkun-katkat-bbbb36263)
 
 Thanks for stopping by 🙌
