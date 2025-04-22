@@ -16,9 +16,13 @@ More coming soon, as I create to learn more in my free time.
 
 
 🛠️ **Technologies & Tools**
+
 Actively using: `Python`, `Java`, `JavaScript`, `CSS`, `HTML`, `VBA in MS Office`
+
 Can use: `SQL`, `C++`, `UML`
+
 Currently learning: `C`, `scikit-learn`, `TensorFlow`
+
 
 
 📬 **Get in Touch**
