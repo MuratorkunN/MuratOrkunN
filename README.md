@@ -1,16 +1,25 @@
-## Hi there 👋
-orkunnnn
-<!--
-**MuratorkunN/MuratOrkunN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Orkun 👋
 
-Here are some ideas to get you started:
+🎓 I'm a 3rd-year **Industrial Engineering** student, passionate about continuously improving myself.  
+🔍 Mainly interested in **Data Science**, as well as **Finance** and **Decision Support Systems**.  
+💻 Currently focused on mastering Python libraries for **Machine Learning** and **AI** applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Recent Projects**
+Most of my work is in private repositories (for now 👀), but here are a couple of repos I’ve recently created:
+
+[**Orkun Finans**](https://orkunfinans.netlify.app/)
+[**MyKendoku**](https://mykendoku.netlify.app/)
+
+More coming soon, as I create to learn more in my free time.
+
+🛠️ **Technologies & Tools**
+Actively using: `Python`, `Java`, `JavaScript`, `CSS`, `HTML`, `VBA in MS Office`
+Can use: `SQL`, `C++`, `UML`
+Currently learning: `C`, `scikit-learn`, `TensorFlow`
+
+
+📬 **Get in Touch**
+Email: **orkun.katkat@ozu.edu.tr**
+LinkedIn: [**Murat Orkun Katkat**](https://www.linkedin.com/in/murat-orkun-katkat-bbbb36263)
+
+Thanks for stopping by 🙌
